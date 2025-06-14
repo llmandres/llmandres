@@ -11,7 +11,6 @@
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llmandres&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llmandres&theme=dracula&show_icons=true&hide_border=true)
 
 ### 📫 Contacto
 - ✉️ Email: yolminekob@gmail.com
