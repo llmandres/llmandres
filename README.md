@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Andrés
 
-<!--
-**llmandres/llmandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desarrollador de software 
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas que uso:
+- 💻 Lenguajes: JavaScript | Python | Java | SQL | HTML | CSS
+- 🛠️ Arquitecturas: MVC | REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Proyectos destacados:
+- 📱 **FilmBook** – App Android para guardar películas y obtener recomendaciones personalizadas.
+
+### 📊 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llmandres&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llmandres&theme=dracula&show_icons=true&hide_border=true)
+
+### 📫 Contacto
+- ✉️ Email: yolminekob@gmail.com
+- 🧠 CV disponible bajo demanda ( escribir al Email )
+
+---
