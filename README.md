@@ -1,19 +1,17 @@
-## 👋 ¡Hola! Soy Andrés
+## 👋 Hello! I'm Andrés
 
-🎯 Desarrollador de software 
+🎯 **Software Developer**
 
-### 🚀 Tecnologías y herramientas que uso:
-- 💻 Lenguajes: JavaScript | Python | Java | SQL | HTML | CSS
-- 🛠️ Arquitecturas: MVC | REST APIs
+### 🚀 Technologies & Tools I Use:
+- 💻 **Languages**: JavaScript | Python | Java | SQL | HTML | CSS  
+- 🛠️ **Architectures**: MVC | REST APIs
 
-### 🧩 Proyectos destacados:
-- 📱 **FilmBook** – App Android para guardar películas y obtener recomendaciones personalizadas.
+### 🧩 Highlight Projects:
+- 📱 **FilmBook** – Android app to save movies and get personalized recommendations.
 
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llmandres&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-### 📫 Contacto
-- ✉️ Email: yolminekob@gmail.com
-- 🧠 CV disponible bajo demanda ( escribir al Email )
-
----
+### 📫 Contact
+- ✉️ **Email**: yolminekob@gmail.com  
+- 🧠 **CV available upon request** (just email me)
