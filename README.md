@@ -36,7 +36,7 @@
 
 <div align="center">
   <!-- Tarjeta de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=llmandres&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=llmandres&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
   <br/>
   <!-- Tarjeta de lenguajes más usados (la que ya tenías) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llmandres&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
