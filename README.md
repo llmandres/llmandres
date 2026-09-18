@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Cambiamos el width="600" por width="350" -->
-  <img src="image1.png" alt="Tech Stack" width="350" />
+  <img src="image2.png" alt="Tech Stack" width="350" />
   
   <h1>👋 Hey, I'm Andrés</h1>
   <p><b>Full-Stack Developer | Automation Enthusiast</b></p>
