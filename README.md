@@ -6,7 +6,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=llmandres&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
----
 
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=llmandres&show_icons=true&theme=vue-dark&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="170" alt="GitHub Stats" />
