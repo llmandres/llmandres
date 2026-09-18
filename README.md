@@ -2,7 +2,7 @@
   <img src="image2.png" alt="Tech Stack" width="400" />
   
   <h2>👋 Hey, I'm Andrés</h2>
-  <p><b>Full-Stack Developer | Automation Enthusiast</b></p>
+  <p><b>Full-Stack Developer</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=llmandres&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
