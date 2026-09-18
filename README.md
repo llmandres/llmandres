@@ -1,41 +1,32 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" alt="Hello GIF"/>
+  <img src="image1.png" alt="Tech Stack" width="600" />
   
-  <h1>👋 Hey, soy Andrés</h1>
-  <p><b>Full-Stack Developer | Amante de la automatización</b></p>
+  <h1>👋 Hey, I'm Andrés</h1>
+  <p><b>Full-Stack Developer</b></p>
 </div>
 
 ---
 
-### 👨‍💻 TL;DR
-- 🏗️ Construyendo apps escalables (Web & Móvil).
-- 🧠 Trasteando con arquitecturas robustas (MVC, REST APIs).
-- ⚡ **Dato curioso:** Automatizo todo lo que me da pereza hacer a mano.
+### 🧩 Featured Projects
 
-### 🚀 Mi Stack
-<div align="center">
-  <img src="image1.png" alt="Tech Stack" width="600" />
-</div>
-
-### 🧩 Proyectos Destacados
-
-| Proyecto | ¿Qué hace? |
+| Project | What it does |
 | :--- | :--- |
-| 📱 [**FilmBook**](https://github.com/danicostas-xyz/filmbook) | Tracker y recomendador de películas para Android. |
-| ☕ [**Coffee Finder**](https://github.com/llmandres/CoffeFinder) | App interactiva (Next.js + Leaflet) para descubrir tu próxima cafetería favorita. |
-| 💰 [**Price Checker**](https://github.com/llmandres/PriceChecker) | Script que vigila Amazon y te avisa cuando bajan los precios. |
+| 📱 [**FilmBook**](https://github.com/danicostas-xyz/filmbook) | Movie tracker and recommender for Android. |
+| ☕ [**Coffee Finder**](https://github.com/llmandres/CoffeFinder) | Interactive app (Next.js + Leaflet) to discover your next favorite coffee shop. |
+| 💰 [**Price Checker**](https://github.com/llmandres/PriceChecker) | Script that monitors Amazon and alerts you when prices drop. |
 
-### 📊 Actividad
+### 📊 Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=llmandres&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
   <br><br>
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=llmandres&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1)
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=llmandres&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </div>
 
-### 📫 Hablemos
+### 📫 Let's Connect
 - ✉️ **Email**: [yolminekob@gmail.com](mailto:yolminekob@gmail.com)
-- 📄 **CV**: ¡Pídemelo por correo!
+- 📄 **Resume**: Just send me an email.
 
 ---
-<p align="center"><i>"Transformando café en código"</i></p>
