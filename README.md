@@ -32,14 +32,16 @@
 | ☕ [**Coffee Finder**](https://github.com/llmandres/CoffeFinder) | Web app interactiva basada en mapas (Next.js, TypeScript, Leaflet) para descubrir cafeterías al azar. |
 | 💰 [**Price Checker**](https://github.com/llmandres/PriceChecker) | Script que revisa el precio de un artículo de Amazon y notifica al usuario cuando baja. |
 
-### 📊 Estadísticas
+### 📊 Estadísticas y Actividad
 
 <div align="center">
-  <!-- Tarjeta de estadísticas generales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=llmandres&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
-  <br/>
-  <!-- Tarjeta de lenguajes más usados (la que ya tenías) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llmandres&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" />
+  <!-- Tarjeta de Racha de Commits (Streak Stats) -->
+  <img src="https://streak-stats.demolab.com?user=llmandres&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <!-- Trofeos de GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=llmandres&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </div>
 
 ### 📫 Contacto
