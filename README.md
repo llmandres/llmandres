@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image1.png" alt="Tech Stack" width="400" />
+  <img src="image2.png" alt="Tech Stack" width="400" />
   
   <h1>👋 Hey, I'm Andrés</h1>
   <p><b>Full-Stack Developer | Automation Enthusiast</b></p>
