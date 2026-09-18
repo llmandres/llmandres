@@ -41,7 +41,7 @@
   <br><br>
   
   <!-- Trofeos de GitHub -->
-  <img src="https://github-profile-trophy.vercel.app/?username=llmandres&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=llmandres&theme=dracula&no-frame=true&no-bg=true&margin-w=15&v=1)
 </div>
 
 ### 📫 Contacto
